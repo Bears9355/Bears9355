@@ -1,9 +1,5 @@
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://cdn.discordapp.com/attachments/759084141144047647/994211109882036284/Mon_projet.png" alt=”my banner”>
 [![(https://cdn.discordapp.com/attachments/759084141144047647/994211109882036284/Mon_projet.png)](https://cdn.discordapp.com/attachments/759084141144047647/994211109882036284/Mon_projet.png)
 
-</p>
 
 # Stats
 
