@@ -1,7 +1,4 @@
-# Informations
-
-Bonjour, je suis Bears. Je suis développeur par passe temps en tant que pation. Je développe principalement en Javascript.
-Je peux vous faire des bots Discord sous commande en me demandant par MP : Bears#9355.
+<img src=”https://cdn.discordapp.com/attachments/759084141144047647/994211109882036284/Mon_projet.png" alt=”Bannière de profil.”>
 
 # Stats
 
