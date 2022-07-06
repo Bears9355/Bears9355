@@ -11,7 +11,7 @@ I'm a French 🥖 developer, using Javascript, HTML/CSS, SQL...
 ## 🏫 What is my plan for school ?
 
  - I'm currently in "STI2D", which is sciences about engineering and sustainability.
- - I want to a "BUT" in computer science. It is in college and during 3 years.
+ - I want to do a "BUT" in computer science. It is in college and during 3 years.
  - Next, I will probably do one year of forming to become professional developer !
 
 ## 💻Currently working on :
