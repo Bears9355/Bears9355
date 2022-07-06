@@ -1,4 +1,4 @@
-[![(https://cdn.discordapp.com/attachments/759084141144047647/994211109882036284/Mon_projet.png)](https://cdn.discordapp.com/attachments/759084141144047647/994211109882036284/Mon_projet.png)
+[!(https://cdn.discordapp.com/attachments/759084141144047647/994211109882036284/Mon_projet.png)](https://cdn.discordapp.com/attachments/759084141144047647/994211109882036284/Mon_projet.png)
 
 
 # Stats
