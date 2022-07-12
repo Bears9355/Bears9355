@@ -16,7 +16,7 @@ I'm a French 🥖 developer, using Javascript, HTML/CSS, SQL...
 
 ## 💻Currently working on :
 
- - Marketo (A Discord Bot for Paladium's Markets (Video Game).
+ - Marketo (A Discord Bot for Paladium's Markets (Video Game), see the repository [here](https://github.com/Bears9355/marketo)
 
 ## 🌴 What I've done :
 
