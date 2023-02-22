@@ -5,18 +5,19 @@ Hi 👋 I'm Bears !
 </h3>
 
 <h2 align="center">
-I'm a French 🥖 developer, using Javascript, HTML/CSS, SQL...
+I'm a French 🥖 developer, using Javascript, HTML/CSS, SQL, and C++...
 </h2>
 
 ## 🏫 What is my plan for school ?
 
  - I'm currently in "STI2D", which is sciences about engineering and sustainability.
  - I want to do a "BUT" in computer science. It is in college and during 3 years.
- - Next, I will probably do one year of forming to become professional developer !
+ - Next, I would like to do 3 more years in computer science in a french engineer school : Polytech
 
 ## 💻Currently working on :
 
  - Marketo (A Discord Bot for Paladium's Markets (Video Game), see the repository [here](https://github.com/Bears9355/marketo)
+ - Cansat (A national and european competition in which we have to create a mini satellite as a team)
 
 ## 🌴 What I've done :
 
@@ -25,4 +26,4 @@ I'm a French 🥖 developer, using Javascript, HTML/CSS, SQL...
 
 # Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bears9355)](https://github.com/anuraghazra/github-readme-stats)
+[![Some stats...](https://github-readme-stats.vercel.app/api?username=bears9355)](https://github.com/anuraghazra/github-readme-stats)
