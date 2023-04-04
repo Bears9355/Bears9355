@@ -17,12 +17,13 @@ I'm a French 🥖 developer, using Javascript, HTML/CSS, SQL, and C++...
 ## 💻Currently working on :
 
  - Marketo (A Discord Bot for Paladium's Markets (Video Game), see the repository [here](https://github.com/Bears9355/marketo)
- - Cansat (A national and european competition in which we have to create a mini satellite as a team)
 
 ## 🌴 What I've done :
 
  - The French national contest "Course en Cours" in which we create and develop a tiny car for races.
    Me & my team finished 2nd among +1000 teams and +10k people.
+ - Cansat (A national and european competition in which we have to create a mini satellite as a team)
+   Me & my team finished also 2nd nationally.
 
 # Stats
 
