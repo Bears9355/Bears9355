@@ -10,9 +10,9 @@ I'm a French 🥖 developer, using Javascript, HTML/CSS, SQL, and C++...
 
 ## 🏫 What is my plan for school ?
 
- - I'm currently in "STI2D", which is sciences about engineering and sustainability.
- - I will do a "BUT" in computer science. It is in college and during 3 years.
- - Next, I would like to do 3 more years in computer science in a french engineer school : Polytech
+ - I've graduated in "STI2D SIN option", which is engineering and computer science.
+ - I am currently in the first year of "BUT Informatique".
+ - After 3 years, I will join the "Polytech" engineering school, still in IT.
 
 ## 💻Currently working on :
 
