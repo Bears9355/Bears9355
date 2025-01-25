@@ -5,18 +5,18 @@ Hi 👋 I'm Bears !
 </h3>
 
 <h2 align="center">
-I'm a French 🥖 developer, using Javascript, HTML/CSS, SQL, and C++...
+I'm a French 🥖 developer, using Kotlin, PHP, Golang, HTML/CSS, Javascript, C++...
 </h2>
 
 ## 🏫 What is my plan for school ?
 
  - I've graduated in "STI2D SIN option", which is engineering and computer science.
- - I am currently in the first year of "BUT Informatique".
- - After 3 years, I will join the "Polytech" engineering school, still in IT.
+ - I am currently in the second year of "BUT Informatique".
+ - After 2/3 years, I wanna join the "Polytech" engineering school, still in IT.
 
 ## 💻Currently working on :
 
- - Marketo (A Discord Bot for Paladium's Markets (Video Game), see the repository [here](https://github.com/Bears9355/marketo)
+ - School projects
 
 ## 🌴 What I've done :
 
